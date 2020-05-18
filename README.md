@@ -5,3 +5,7 @@ IPANA combines all subscription based content into one. Our proprietary algorith
 ## Support
 
 ipana.app@gmail.com
+
+## Privacy policy
+
+We don't store your data, period.
